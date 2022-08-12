@@ -6,3 +6,10 @@ function getSumOfNumbers(...arg) {
 }
 
 console.log(getSumOfNumbers(a, b));
+
+// COMMENT FOR DEVELOP BRANCH
+// IN MAIN BRANCH THIS COMMENT IS NOT EXIST
+
+function helloDevelop() {
+  alert("Hello, develop!");
+}
