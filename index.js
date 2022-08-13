@@ -16,3 +16,9 @@ function helloDevelop() {
 
 // This comment only in about(features) branche
 console.log("features");
+
+/*
+	You'll be see this comment in main branch after merge features branch
+*/
+
+console.log("THIS CONSOLE ALSO WILL BE APPEAR IN MAIN AFTER MERGE FEARURES!!");
