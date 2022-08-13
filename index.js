@@ -6,3 +6,7 @@ function getSumOfNumbers(...arg) {
 }
 
 console.log(getSumOfNumbers(a, b));
+
+/*
+  Changes made in the main branch
+*/
