@@ -22,3 +22,5 @@ console.log("features");
 */
 
 console.log("THIS CONSOLE ALSO WILL BE APPEAR IN MAIN AFTER MERGE FEARURES!!");
+
+console.log("One more output");
